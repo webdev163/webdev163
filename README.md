@@ -30,6 +30,29 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#### Recent projects
+
+<details>
+<summary>Project management app</summary>
+<p><b>Description</b>: small web application for organizing tasks in a group of people. The application was developed in a team as a final project of the React course in Rolling Scopes School</p>
+<p><b>Stack</b>: typescript, react, redux, redux-toolkit, sass, css-modules, material ui, formik, i18next, react-dnd, react-toastify</p>
+<p><a href="https://project-management-app-team47.netlify.app/">Link to deploy</a></p><p><a href="https://github.com/webdev163/project-management-app/">Link to repo</a></p>
+</details>
+
+<details>
+<summary>RS lang</summary>
+<p><b>Description</b>: small web app for learning new English words and expanding vocabulary. The application was developed in a team as a final project of the JS/frontend course in Rolling Scopes School</p>
+<p><b>Stack</b>: typescript, react, redux, redux-thunk, sass, css-modules, material ui, chart.js</p>
+<p><a href="https://rslang-webdev163.netlify.app/">Link to deploy</a></p><p><a href="https://github.com/webdev163/rslang/">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Art quiz</summary>
+<p><b>Description</b>: with this application you can play a quiz and guess the artist and his painting. The application was developed as an educational project of the JS/frontend course in Rolling Scopes School</p>
+<p><b>Stack</b>: Vanilla JS</p>
+<p><a href="https://rolling-scopes-school.github.io/webdev163-JSFE2021Q3/art-quiz/">Link to deploy</a></p><p><a href="https://github.com/webdev163/JSFE2021Q3/tree/art-quiz/">Link to repo</a></p>
+</details>
+
 #### Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolesnichenko-dmitry/)
